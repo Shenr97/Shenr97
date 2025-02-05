@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shenr97
-- 👀 I’m interested in Javascript 
-- 🌱 I’m currently learning Javascript and programming language
+- 👀 I’m interested in C 
+- 🌱 I’m currently learning C and programming language
 - 💞️ I’m looking to collaborate on Fintech
 - 📫 How to reach me shenruiqi3@gmail.com
 
